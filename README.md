@@ -6,9 +6,10 @@
   <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Hello! My name is sumin
-</summary>
-   <br>
+  <br>
   I want to be a network engineer!
+</summary>
+   
 
 </details>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
