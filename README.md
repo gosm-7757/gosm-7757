@@ -10,7 +10,8 @@
   I want to be a network engineer!
 </summary>
    <br>
-    so I'm learning about aws, linux, python\n
+    so I'm learning about aws, linux, python
+    <br>
     Nice to meet you!
 </details>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
