@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=sumini&fontSize=90" />
 
-<h1>king~a!!</h1>
+<h1>킹아~!</h1>
 
   <details>
 <summary>
