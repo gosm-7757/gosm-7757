@@ -1,8 +1,8 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=31EAFFFF&height=300&section=header&text=SuMiNi&fontSize=90"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=1000&color=000000&center=true&width=600&lines=%EC%95%8C%EC%9E%98%EB%94%B1+%EB%A7%88%EC%9D%B8%EB%93%9C" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=50&color=000000&center=true&width=600&lines=%EC%95%8C%EC%9E%98%EB%94%B1+%EB%A7%88%EC%9D%B8%EB%93%9C)](https://git.io/typing-svg)
 
-<h1 font-style="Nanum Pen Script">킹아~!</h1>
+<h1>킹아~!</h1>
 
   <details>
 <summary>
