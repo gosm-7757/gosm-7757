@@ -1,5 +1,6 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=600&lines=SuMiNi" alt="Typing SVG" /></a>&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=SuMiNi</a>&fontSize=90"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=600&lines=SuMiNi" alt="Typing SVG" /></a>
 
 <h1>킹아~!</h1>
 
