@@ -18,7 +18,9 @@
       Azure Azure Fundamentals (AZ-900)<br>
       Linux Professional Institute LPIC-1 (101-500, 102-500)<br>
       IT Passport - IT パスポート<br>
-      licenses.
+      licenses.<br>
+      <h1></h1>
+      Please check my issues for more information.
     
   <br>
     
