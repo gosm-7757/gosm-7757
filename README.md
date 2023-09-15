@@ -12,14 +12,14 @@
 </summary>
    <br>
     so I'm learning about aws, linux, python and cisco networking<br>
-    <h1></h1>
+    <h2></h2>
     I got <br>
       AWS Solutions Architect - Associate (SAA-003)<br>
       Azure Azure Fundamentals (AZ-900)<br>
       Linux Professional Institute LPIC-1 (101-500, 102-500)<br>
       IT Passport - IT パスポート<br>
       licenses.<br>
-      <h1></h1>
+      <h2></h2>
       Please check my issues for more information.
     
   <br>
