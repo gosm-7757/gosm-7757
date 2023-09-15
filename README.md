@@ -26,7 +26,7 @@
     
 </details>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-C8332D?style=flat&logo=firebase&logoColor=white"/>
 <h1></h1>
