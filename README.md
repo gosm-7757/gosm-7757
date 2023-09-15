@@ -12,7 +12,8 @@
 </summary>
    <br>
     so I'm learning about aws, linux, python and cisco networking<br>
-    <h2></h2>
+    <br>
+    <br>
     I got <br>
       AWS Solutions Architect - Associate (SAA-003)<br>
       Azure Azure Fundamentals (AZ-900)<br>
