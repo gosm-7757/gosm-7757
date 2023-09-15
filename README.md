@@ -11,7 +11,7 @@
   I want to be a network engineer!
 </summary>
    <br>
-    so I'm learning about aws, linux, python and cisco networking<br>
+    so I'm learning about aws, linux, python and cisco networking<br><br>
     I got <br>
       AWS Solutions Architect - Associate (SAA-003)<br>
       Azure Azure Fundamentals (AZ-900)<br>
