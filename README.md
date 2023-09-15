@@ -13,14 +13,13 @@
    <br>
     so I'm learning about aws, linux, python and cisco networking<br>
     <br>
-    <br>
     I got <br>
       AWS Solutions Architect - Associate (SAA-003)<br>
       Azure Azure Fundamentals (AZ-900)<br>
       Linux Professional Institute LPIC-1 (101-500, 102-500)<br>
       IT Passport - IT パスポート<br>
       licenses.<br>
-      <h2></h2>
+      <br>
       Please check my issues for more information.
     
   <br>
