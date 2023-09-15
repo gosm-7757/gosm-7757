@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-C8332D?style=flat&logo=firebase&logoColor=white"/>
-<h1></h1>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosm-7757&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosm-7757&show_icons=true&theme=dark)
