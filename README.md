@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=python&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=python&logoColor=white"/>
 <h1></h1>
 
