@@ -25,10 +25,12 @@
   <br>
     
 </details>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-C8332D?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cisco-1BA0D7?style=flat&logo=cisco&logoColor=black"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat&logo=Azure&logoColor=black"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/firebase-C8332D?style=flat&logo=firebase&logoColor=black"/>
 <h1></h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosm-7757&layout=compact"><br><br>
