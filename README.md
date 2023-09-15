@@ -5,14 +5,20 @@
 
   <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Hello! My name is sumin
-  <br>Nice to meet you!
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
+  Hello! My name is sumin
   <br>
   I want to be a network engineer!
 </summary>
    <br>
-    so I'm learning about aws, linux, python
-    <br>
+    so I'm learning about aws, linux, python and cisco networking
+    I got 
+      \tAWS Solutions Architect - Associate (SAA-003)
+      \tAzure Azure Fundamentals (AZ-900)
+      \tLinux Professional Institute LPIC-1 (101-500, 102-500)
+      \tIT Passport - IT パスポート
+    
+  <br>
     
 </details>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
