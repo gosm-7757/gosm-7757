@@ -34,5 +34,5 @@
 <h1></h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosm-7757&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosm-7757&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosm-7757&show_icons=true&theme=prussian)
 </div>
