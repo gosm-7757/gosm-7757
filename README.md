@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
   Hello! My name is sumin
   <br>
-  I want to be a network engineer!<br>
+  I want to be a network IT engineer!<br>
 </summary>
    <br>
     so I'm learning about aws, linux, python and cisco networking<br>
